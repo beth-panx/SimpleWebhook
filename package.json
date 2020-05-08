@@ -29,6 +29,7 @@
   "dependencies": {
     "@azure/cosmos": "^3.6.3",
     "crypto": "^1.0.1",
+    "dotenv": "^8.2.0",
     "http": "0.0.1-security"
   }
 }
